@@ -1,0 +1,10 @@
+import './tasks/taskOne.js';
+import './tasks/taskTwo.js';
+import './tasks/taskThree.js';
+import './tasks/taskFour.js';
+import './tasks/taskFive.js';
+import './tasks/taskSix.js';
+import './tasks/taskSeven.js';
+import './tasks/taskEight.js';
+import './tasks/taskEleven.js';
+import './tasks/taskTwelve.js';
