@@ -8,7 +8,7 @@ let outputEight = document.querySelector('.output-8');
 let inputEight = document.querySelector('.input-8');
 let checkEight = document.querySelector('.check-8');
 
-const uniqueValue = checkEight.addEventListener('click', () => {
+const uniqueValueArr = checkEight.addEventListener('click', () => {
   let a = inputEight.value;
   let newArr = JSON.parse('[' + a.split(' ') + ']');
   console.log(newArr);
