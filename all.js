@@ -8,3 +8,4 @@ import './tasks/taskSeven.js';
 import './tasks/taskEight.js';
 import './tasks/taskNine.js';
 import './tasks/taskTen.js';
+import './tasks/taskEleven.js';
