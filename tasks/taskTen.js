@@ -8,7 +8,7 @@ let outputTen = document.querySelector('.output-10');
 let inputTen = document.querySelector('.input-10');
 let checkTen = document.querySelector('.check-10');
 
-const findVowels = checkTen.addEventListener('click', () => {
+const findVowelsStr = checkTen.addEventListener('click', () => {
   let a = inputTen.value;
   let b = findVowelsAdv(a);
   let c = outputTen;
