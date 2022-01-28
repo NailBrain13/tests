@@ -8,7 +8,7 @@ let outputFive = document.querySelector('.output-5');
 let inputFive = document.querySelector('.input-5');
 let checkFive = document.querySelector('.check-5');
 
-const shortValue = checkFive.addEventListener('click', () => {
+const minMaxValue = checkFive.addEventListener('click', () => {
   let a = inputFive.value.toString();
   let newArr = JSON.parse('[' + a + ']');
   let b = minMaxArrow(newArr);

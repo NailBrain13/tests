@@ -7,7 +7,7 @@ let outputSix = document.querySelector('.output-6');
 let inputSix = document.querySelector('.input-6');
 let checkSix = document.querySelector('.check-6');
 
-const shortValue = checkSix.addEventListener('click', () => {
+const capitalsWord = checkSix.addEventListener('click', () => {
   let a = inputSix.value;
   let b = capitalWordArrow(a);
   let c = outputSix;

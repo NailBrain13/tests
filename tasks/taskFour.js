@@ -8,7 +8,7 @@ let outputFour = document.querySelector('.output-4');
 let inputFour = document.querySelector('.input-4');
 let checkFour = document.querySelector('.check-4');
 
-const shortValue = checkFour.addEventListener('click', () => {
+const summValue = checkFour.addEventListener('click', () => {
   let a = inputFour.value;
   console.log(typeof a);
   let newArr = JSON.parse('[' + a + ']').join('');

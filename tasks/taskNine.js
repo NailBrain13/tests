@@ -13,7 +13,7 @@ let outputEleven = document.querySelector('.output-9');
 let inputEleven = document.querySelector('.input-9');
 let checkEleven = document.querySelector('.check-9');
 
-const shortValue = checkEleven.addEventListener('click', () => {
+const converteNumber = checkEleven.addEventListener('click', () => {
   let a = inputEleven.value;
   let b = createPhoneNumber(a);
   let c = outputEleven;
