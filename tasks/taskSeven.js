@@ -1,4 +1,4 @@
-import { fizzbuzz } from './../js/fizzbuzz.js';
+import { fizzbuzz } from './../js/fizzBuzz.js';
 
 //7 fizzbuzz
 let a = fizzbuzz(100);
