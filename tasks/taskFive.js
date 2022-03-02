@@ -1,6 +1,6 @@
 import { minMaxAdvanced, minMaxArrow } from './../js/minMax.js';
 
-//5 Min/max value
+//5 Min/max value.
 // console.log(minMaxAdvanced([1, 2, 6, -1]));
 // console.log(minMaxArrow([1]));
 
