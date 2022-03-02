@@ -1,7 +1,7 @@
 import { fizzbuzz } from './../js/fizzBuzz.js';
 
 //7 fizzbuzz
-let a = fizzbuzz(100);
+// let a = fizzbuzz(100);
 
 let outputSeven = document.querySelector('.output-7');
 let inputSeven = document.querySelector('.input-7');
